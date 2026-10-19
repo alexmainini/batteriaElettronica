@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">batteriaElettronica</string>
+    <string name="claves">claves</string>
+    <string name="piatto">piatto</string>
+    <string name="charleston">charleston</string>
+    <string name="rullante_sinistra">rullante sinistra</string>
+    <string name="rullante_destra">rullante destra</string>
+    <string name="cassa_destra">cassa destra</string>
+    <string name="cassa_sinistra">cassa sinistra</string>
+</resources>
